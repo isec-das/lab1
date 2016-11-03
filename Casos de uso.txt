@@ -1,0 +1,52 @@
+
+
+Criar pergunta
+1 - Faz caso de uso "Autenticar"
+2 - Utilizador indica que quer criar pergunta
+3 - Utilizador indica texto da pergunta
+4 - O sistema armazena a pergunta
+5 - Caso de uso termina
+
+Autentica
+1 - Utilizador indica o username, password e confirma
+2 - O sistema compara os dados com os registos que tem
+3 - Faz o caso de uso "Recebe indicações"
+4 - Caso de uso termina
+
+Responder identificado a pergunta
+1 - Utilizador indica que quer responder a pergunta
+2 - Utilizador indica texto de resposta
+3 - O sistema armazena resposta com utilizador
+4 - Caso de uso termina
+
+Responder anonimamente a pergunta
+1 - Utilizador indica que quer responder a pergunta
+2 - Faz caso de uso "Ver pergunta"
+2 - Utilizador indica texto de resposta
+3 - O sistema armazena resposta sem utilizador
+4 - Caso de uso termina
+
+Ignorar pergunta
+1 - Utilizador indica que quer ignorar pergunta
+2 - O sistema armazena indicação
+3 - Caso de uso termina
+
+Ver novas perguntas
+1 - O sistema mostra listagem de perguntas novas
+
+Ver pergunta
+
+Recebe Indicações
+
+Cancelar pergunta
+
+Alterar resposta
+
+Ver novas respostas
+
+Apagar pergunta 
+
+Ver total respostas
+
+Ver detalhes respostas
+
